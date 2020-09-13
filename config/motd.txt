@@ -1,0 +1,5 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Witaj na Jacex Station 13!</h1>
+
+<i>Jest to Jacexowy fork /tg/station.</i>
