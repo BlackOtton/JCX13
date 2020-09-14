@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: icons icons\obj icons\obj\doors icons\obj\doors\airlocks icons\obj\doors\airlocks\station 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: icons\obj\doors\airlocks\station\command.dmi
+FILE: icons\obj\doors\airlocks\station\command.dmi
+*/
+// END_INTERNALS
