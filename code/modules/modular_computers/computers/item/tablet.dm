@@ -11,7 +11,6 @@
 	w_class = WEIGHT_CLASS_SMALL
 	max_bays = 3
 	steel_sheet_cost = 1
-	slot_flags = ITEM_SLOT_ID | ITEM_SLOT_BELT
 	has_light = TRUE //LED flashlight!
 	comp_light_luminosity = 2.3 //Same as the PDA
 	var/has_variants = TRUE
