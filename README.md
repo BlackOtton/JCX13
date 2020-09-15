@@ -7,14 +7,13 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://user-images.githubusercontent.com/8171642/50290880-ffef5500-043a-11e9-8270-a2e5b697c86c.png) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
-* **Website:** https://www.tgstation13.org
+* **Website:** Nie mamy *jeszcze*
 * **Discord Jacex Dowóz Wideo:** https://discord.com/invite/xy9hYCb
 
 
+/JCX13/ Station, to nasz autorski codebase oparty na /tg/ zmodyfikowany dla graczy SS13 znających Jacex Dowóz Wideo.
 
-This is the codebase for the /tg/station flavoured fork of SpaceStation 13.
-
-Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones. Have fun, and survive!
+Zmiany które jak na razie tutaj zachodzą to międzyinnymi zmiana spriteów, edycja mapy, dodawanie przedmiotów/obiektów do gry, tworzenie nowych funkcji dla silnika SS13.
 
 ## DOWNLOADING
 [Downloading](.github/DOWNLOADING.md)
