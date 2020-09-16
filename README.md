@@ -10,24 +10,6 @@
 
 Zmiany które jak na razie tutaj zachodzą to międzyinnymi zmiana spriteów, edycja mapy, dodawanie przedmiotów/obiektów do gry, tworzenie nowych funkcji dla silnika SS13.
 
-## DOWNLOADING
-[Downloading](.github/DOWNLOADING.md)
-
-[Running on the server](.github/RUNNING_A_SERVER.md)
-
-[Maps and Away Missions](.github/MAPS_AND_AWAY_MISSIONS.md)
-
-## Requirements for contributors
-[Guidelines for Contributors](.github/CONTRIBUTING.md)
-
-[/tg/station HACKMD account](https://hackmd.io/@tgstation) - Design documentation here
-
-[Documenting your code](.github/AUTODOC_GUIDE.md)
-
-[Policy configuration system](.github/POLICYCONFIG.md)
-
-[Interested in some starting lore?](https://github.com/tgstation/common_core)
-
 ## LICENSE
 
 All code after [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
