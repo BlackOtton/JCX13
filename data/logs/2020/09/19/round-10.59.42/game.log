@@ -1,0 +1,152 @@
+[2020-09-19 08:59:42.898] Starting up round ID .
+ - -------------------------
+[2020-09-19 08:59:43.127] ACCESS: Login: Guest-94480906 from localhost-94480906 || BYOND v513.1532
+[2020-09-19 08:59:43.128] ACCESS: Mob Login: Guest-94480906/(Guest-94480906) was assigned to a /mob/dead/new_player
+[2020-09-19 08:59:43.131] GAME: Guest-94480906/(Guest-94480906) Client Guest-94480906/(Guest-94480906) has taken ownership of mob Guest-94480906(/mob/dead/new_player) (start area (8,174,1))
+[2020-09-19 08:59:48.686] GAME: Saved mode is 'extended'
+[2020-09-19 09:00:05.311] GAME: Hierophant's Arena loaded at 142,137,5
+[2020-09-19 09:00:05.315] GAME: Pulsating Tumor loaded at 180,143,5
+[2020-09-19 09:00:05.362] GAME: Biodome Winter loaded at 148,173,5
+[2020-09-19 09:00:05.383] GAME: Ruined Pizza Party loaded at 63,77,5
+[2020-09-19 09:00:05.403] GAME: Free Golem Ship loaded at 107,63,5
+[2020-09-19 09:00:05.406] GAME: Ancient Puzzle loaded at 211,29,5
+[2020-09-19 09:00:05.419] GAME: Summoning Ritual loaded at 80,156,5
+[2020-09-19 09:00:05.431] GAME: Ruin of Pride loaded at 153,49,5
+[2020-09-19 09:00:05.696] GAME: Unnamed Turreted Outpost loaded at 211,136,9
+[2020-09-19 09:00:05.741] GAME: Biological Storage Facility loaded at 149,22,4
+[2020-09-19 09:00:05.821] GAME: Syndicate Listening Station loaded at 161,68,8
+[2020-09-19 09:00:05.857] GAME: Derelict 4 loaded at 63,121,4
+[2020-09-19 09:00:05.902] GAME: Derelict 5 loaded at 33,30,8
+[2020-09-19 09:00:05.985] GAME: A Giant Ball of Paper in Space loaded at 154,80,9
+[2020-09-19 09:00:06.023] GAME: Derelict 6 loaded at 97,178,7
+[2020-09-19 09:00:06.448] GAME: Ancient Space Station loaded at 44,106,3
+[2020-09-19 09:00:06.480] GAME: Cleric's Den loaded at 122,115,10
+[2020-09-19 09:00:06.899] GAME: Kosmicheskaya Stantsiya 13 loaded at 137,34,3
+[2020-09-19 09:00:06.998] GAME: Syndicate Forgotten Ship loaded at 126,61,4
+[2020-09-19 09:00:07.045] GAME: Gondoland loaded at 27,47,3
+[2020-09-19 09:00:07.069] GAME: Salvation loaded at 45,172,9
+[2020-09-19 09:00:07.200] GAME: Crashed Ship loaded at 38,43,4
+[2020-09-19 09:00:07.229] GAME: Asteroid 3 loaded at 23,94,7
+[2020-09-19 09:00:07.259] GAME: Waylaid Buses loaded at 148,128,7
+[2020-09-19 09:00:36.230] EMOTE: *no key*/(Fernanda Levett) seizes up and falls limp, her eyes dead and lifeless... (Morgue (100,78,2))
+[2020-09-19 09:00:36.236] EMOTE: *no key*/(Jude Parkinson) seizes up and falls limp, his eyes dead and lifeless... (Morgue (102,78,2))
+[2020-09-19 09:00:56.796] GAME: Backup Shuttle loaded at 8,8,12
+[2020-09-19 09:00:56.881] GAME: assault pod (Default) loaded at 16,8,12
+[2020-09-19 09:00:56.959] GAME: fancy transport ferry loaded at 23,8,12
+[2020-09-19 09:00:57.164] GAME: Box Station Emergency Shuttle loaded at 36,8,12
+[2020-09-19 09:00:57.682] GAME: advanced syndicate infiltrator loaded at 47,8,12
+[2020-09-19 09:00:58.022] GAME: cargo ferry (Box) loaded at 64,8,12
+[2020-09-19 09:00:58.254] GAME: escape pod (Default) loaded at 71,8,12
+[2020-09-19 09:00:58.319] GAME: auxilliary base (Default) loaded at 74,8,12
+[2020-09-19 09:00:58.454] GAME: arrival shuttle (Box) loaded at 83,8,12
+[2020-09-19 09:00:58.565] GAME: lavaland shuttle (Meta) loaded at 98,8,12
+[2020-09-19 09:00:58.613] GAME: mining shuttle (Box) loaded at 103,8,12
+[2020-09-19 09:00:58.675] GAME: labour shuttle (Box) loaded at 108,8,12
+[2020-09-19 09:00:58.726] GAME: escape pod (Default) loaded at 113,8,12
+[2020-09-19 09:00:58.755] GAME: escape pod (Default) loaded at 116,8,12
+[2020-09-19 09:00:58.794] GAME: escape pod (Default) loaded at 119,8,12
+[2020-09-19 09:00:59.129] GAME: Resetting persistent /datum/chemical_reaction/randomized/secret_sauce random recipe.
+[2020-09-19 09:00:59.129] GAME: Resetting persistent /datum/chemical_reaction/randomized/metalgen random recipe.
+[2020-09-19 09:01:10.792] ADMIN: Guest-94480906 has started the game.
+[2020-09-19 09:01:17.010] SAY: *no key*/(Inspector Johnson) "Engaging patrol mode." (Medbay Central (100,109,2))
+[2020-09-19 09:01:18.707] EMOTE: *no key*/(Lizard) stops moving... (Unexplored Location (154,140,7))
+[2020-09-19 09:01:18.956] GAME: *no key*/(Guest-94480906) *no key*/(Guest-94480906) is no longer owning mob Guest-94480906(/mob/dead/new_player) (start area (8,174,1))
+[2020-09-19 09:01:18.956] ACCESS: Mob Login: Guest-94480906/(Jaxson Llora) was assigned to a /mob/living/carbon/human
+[2020-09-19 09:01:18.958] GAME: Guest-94480906/(Jaxson Llora) Client Guest-94480906/(Jaxson Llora) has taken ownership of mob (/mob/living/carbon/human) (start area (8,174,1))
+[2020-09-19 09:01:20.275] SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23,36,5))
+[2020-09-19 09:01:20.275] SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23,36,5))
+[2020-09-19 09:01:20.277] SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Brig (110,166,2))
+[2020-09-19 09:01:22.321] SAY: *no key*/(Mjor the Creative) "Rise, my creations! Jump off your pages and into this realm!" FORCED by boss action (Unexplored Location (186,93,9))
+[2020-09-19 09:01:24.274] SAY: *no key*/(Poly) "What are you before me?" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 09:01:25.939] EMOTE: *no key*/(corgi) dances around. (Port Quarter Maintenance (60,99,2))
+[2020-09-19 09:01:26.266] EMOTE: *no key*/(mouse) squeaks. (Aft Maintenance (71,74,2))
+[2020-09-19 09:01:26.278] EMOTE: *no key*/(corgi) chases its tail. (Port Quarter Maintenance (60,99,2))
+[2020-09-19 09:01:31.086] EMOTE: *no key*/(Runtime) bats the toy mouse around with its paw! (Chief Medical Officer's Office (96,98,2))
+[2020-09-19 09:01:31.087] EMOTE: *no key*/(monkey (508)) rolls. (Virology (62,78,2))
+[2020-09-19 09:01:37.422] SAY: *no key*/(mouse) "SQUEAK!" FORCED by poly (Starboard Maintenance (153,113,2))
+[2020-09-19 09:01:37.432] EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (154,143,2))
+[2020-09-19 09:01:41.485] SAY: *no key*/(Mjor the Creative) "Rise, my creations! Jump off your pages and into this realm!" FORCED by boss action (Unexplored Location (186,92,9))
+[2020-09-19 09:01:43.099] EMOTE: *no key*/(grey baby slime (948)) lights up for a bit, then stops. (Xenobiology Lab (136,56,2))
+[2020-09-19 09:01:45.094] EMOTE: *no key*/(Runtime) sits down. (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:01:45.435] SAY: *no key*/(Poly) "OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE" FORCED by poly (Chief Engineer's Office (152,142,2))
+[2020-09-19 09:01:47.429] EMOTE: *no key*/(mouse) runs in a circle. (Starboard Maintenance (150,130,2))
+[2020-09-19 09:01:49.103] EMOTE: *no key*/(monkey (508)) jumps! (Virology (63,78,2))
+[2020-09-19 09:01:51.440] SAY: *no key*/(Renault) "Tchoff" FORCED by poly (Captain's Quarters (119,129,2))
+[2020-09-19 09:01:55.446] EMOTE: *no key*/(Poly) turns and flies towards the �Power-ON cartridge. (Chief Engineer's Office (152,143,2))
+[2020-09-19 09:01:59.241] EMOTE: *no key*/(pug) dances around. (Brig Control (105,166,2))
+[2020-09-19 09:01:59.580] EMOTE: *no key*/(Renault) howls. (Captain's Quarters (119,129,2))
+[2020-09-19 09:01:59.584] EMOTE: *no key*/(corgi) shivers. (Port Quarter Maintenance (60,99,2))
+[2020-09-19 09:02:01.582] SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (152,144,2))
+[2020-09-19 09:02:03.245] EMOTE: *no key*/(grey baby slime (948)) vibrates! (Xenobiology Lab (136,55,2))
+[2020-09-19 09:02:11.586] SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (155,144,2))
+[2020-09-19 09:02:13.247] EMOTE: *no key*/(corgi) chases its tail! (Port Quarter Maintenance (60,99,2))
+[2020-09-19 09:02:13.580] EMOTE: *no key*/(mouse) shakes. (Secondary Starboard Maintenance (129,108,2))
+[2020-09-19 09:02:15.586] SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (154,143,2))
+[2020-09-19 09:02:20.287] EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (155,144,2))
+[2020-09-19 09:02:26.288] SAY: *no key*/(Mopficcer Sweepsky) "Engaging patrol mode." (Storage Wing (86,156,2))
+[2020-09-19 09:02:28.328] SAY: *no key*/(�chicken) "Bwaak bwak." FORCED by poly (Holding Facility (104,71,1))
+[2020-09-19 09:02:32.619] EMOTE: *no key*/(Pun Pun) scratches. (Bar (134,127,2))
+[2020-09-19 09:02:32.956] EMOTE: *no key*/(mouse) runs in a circle. (Aft Maintenance (113,73,2))
+[2020-09-19 09:02:36.838] EMOTE: *no key*/(monkey (55)) waves his tail. (Virology (62,83,2))
+[2020-09-19 09:02:37.163] EMOTE: *no key*/(mouse) squeaks. (Aft Maintenance (73,74,2))
+[2020-09-19 09:02:37.586] ADMIN: Guest-94480906/(Jaxson Llora) spawned 1 x /obj/item/reagent_containers/food/drinks/soda_cans/monkey_energy at Bar (131,127,2)
+[2020-09-19 09:02:39.174] EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:02:41.163] SAY: *no key*/(mouse) "Squeak!" FORCED by poly (Abandoned Medbay (74,80,2))
+[2020-09-19 09:02:43.171] SAY: *no key*/(Runtime) "HSSSSS" FORCED by poly (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:02:47.174] SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:02:49.171] SAY: *no key*/(Poly) "What are you before me?" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:02:50.829] EMOTE: *no key*/(Runtime) sits down. (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:02:51.170] SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:02:53.175] SAY: *no key*/(Poly) "What are you before me?" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:02:56.081] EMOTE: *no key*/(monkey (935)) rolls. (Virology (62,79,2))
+[2020-09-19 09:02:58.421] EMOTE: *no key*/(Featherbottom) pecks at the ground. (Garden (147,153,2))
+[2020-09-19 09:03:00.416] SAY: *no key*/(mouse) "SQUEAK!" FORCED by poly (Starboard Bow Maintenance (156,165,2))
+[2020-09-19 09:03:00.425] SAY: *no key*/(Poly) "What are you before me?" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:03:02.437] SAY: *no key*/(Nobody's Perfect) "There&#39;s always a catch, and I&#39;m the best there is." (Wizard's Den (24,75,1))
+[2020-09-19 09:03:06.440] EMOTE: *no key*/(corgi) pants. (Port Quarter Maintenance (60,99,2))
+[2020-09-19 09:03:13.252] ADMIN: Guest-94480906/(Jaxson Llora) made all areas unpowered
+[2020-09-19 09:03:13.295] ADMIN: Guest-94480906/(Jaxson Llora) used secret unpower
+[2020-09-19 09:03:20.758] EMOTE: *no key*/(pug) yaps. (Brig Control (107,166,2))
+[2020-09-19 09:03:22.762] SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:03:23.208] ADMIN: Guest-94480906/(Jaxson Llora) made all areas powered
+[2020-09-19 09:03:23.257] ADMIN: Guest-94480906/(Jaxson Llora) used secret power
+[2020-09-19 09:03:24.912] SAY: *no key*/(Inspector Johnson) "Engaging patrol mode." (Central Primary Hallway (126,139,2))
+[2020-09-19 09:03:26.927] EMOTE: *no key*/(Poly) looks in the �Zippo lighter's direction and takes flight. (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:03:28.927] SAY: *no key*/(Kentucky) "Bwaak bwak." FORCED by poly (Garden (146,153,2))
+[2020-09-19 09:03:30.069] ADMIN: Guest-94480906/(Jaxson Llora) made all areas unpowered
+[2020-09-19 09:03:30.114] ADMIN: Guest-94480906/(Jaxson Llora) used secret unpower
+[2020-09-19 09:03:30.924] EMOTE: *no key*/(Runtime) wags its tail. (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:03:33.358] EMOTE: *no key*/(crab) clicks. (Abandoned Zoo (152,25,4))
+[2020-09-19 09:03:39.351] SAY: *no key*/(Runtime) "Meow!" FORCED by poly (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:03:40.508] ADMIN: Guest-94480906/(Jaxson Llora) made all areas powered
+[2020-09-19 09:03:40.554] ADMIN: Guest-94480906/(Jaxson Llora) used secret power
+[2020-09-19 09:03:43.492] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (Holding Facility (102,71,1))
+[2020-09-19 09:03:47.487] EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:03:51.502] SAY: *no key*/(Nobody's Perfect) "Radar, put a mask on!" (Wizard's Den (24,75,1))
+[2020-09-19 09:03:55.088] EMOTE: *no key*/(Pun Pun) rolls. (Bar (133,126,2))
+[2020-09-19 09:03:59.505] SAY: *no key*/(�Medibot) "There&#39;s always a catch, and I&#39;m the best there is." (CentCom Transport Shuttle Dock (154,73,1))
+[2020-09-19 09:04:01.489] EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:04:01.490] EMOTE: *no key*/(Kentucky) clucks. (Garden (147,155,2))
+[2020-09-19 09:04:05.094] EMOTE: *no key*/(grey baby slime (948)) lights up for a bit, then stops. (Xenobiology Lab (137,57,2))
+[2020-09-19 09:04:05.485] EMOTE: *no key*/(mouse) shakes. (Aft Maintenance (73,74,2))
+[2020-09-19 09:04:05.492] EMOTE: *no key*/(Featherbottom) flaps its wings viciously. (Garden (146,153,2))
+[2020-09-19 09:04:09.494] SAY: *no key*/(Poly) "Breaking news from Station Announcements!" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:04:11.495] SAY: *no key*/(Poly) "Breaking news from Station Announcements!" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:04:11.496] EMOTE: *no key*/(Kentucky) clucks. (Garden (147,155,2))
+[2020-09-19 09:04:11.501] SAY: *no key*/(�chicken) "Bwaak bwak." FORCED by poly (Holding Facility (102,72,1))
+[2020-09-19 09:04:19.505] EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:04:21.507] EMOTE: *no key*/(Poly) looks in the �Power-ON cartridge's direction and takes flight. (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:04:21.514] EMOTE: *no key*/(cow) shakes its head. (Holding Facility (104,71,1))
+[2020-09-19 09:04:23.105] EMOTE: *no key*/(Runtime) stops resting. (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:04:23.106] EMOTE: *no key*/(Runtime) bats the toy mouse around with its paw! (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 09:04:23.495] EMOTE: *no key*/(mouse) squeaks. (Aft Maintenance (74,74,2))
+[2020-09-19 09:04:23.601] ADMIN: Guest-94480906/(Jaxson Llora) made all areas unpowered
+[2020-09-19 09:04:23.647] ADMIN: Guest-94480906/(Jaxson Llora) used secret unpower
+[2020-09-19 09:04:25.601] SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (153,142,2))
+[2020-09-19 09:04:31.636] SAY: *no key*/(Poly) "Breaking news from Station Announcements!" FORCED by poly (Chief Engineer's Office (154,141,2))
+[2020-09-19 09:04:39.125] ADMIN: Guest-94480906/(Jaxson Llora) made all areas powered
+[2020-09-19 09:04:39.170] ADMIN: Guest-94480906/(Jaxson Llora) used secret power
+[2020-09-19 09:04:41.791] EMOTE: *no key*/(pug) chases its tail. (Brig Control (105,166,2))
+[2020-09-19 09:04:43.809] EMOTE: *no key*/(crab) clacks. (Abandoned Zoo (152,25,4))
+[2020-09-19 09:04:46.626] ACCESS: Logout: Guest-94480906/(Jaxson Llora)
+[2020-09-19 09:04:46.627] GAME: Guest-94480906[DC]/(Jaxson Llora) Guest-94480906[DC]/(Jaxson Llora) is no longer owning mob Jaxson Llora(/mob/living/carbon/human) (Bar (130,134,2))

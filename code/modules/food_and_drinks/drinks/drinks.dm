@@ -768,3 +768,11 @@
 	desc = "There is no air shortage. Do not drink."
 	icon_state = "air"
 	list_reagents = list(/datum/reagent/nitrogen = 24, /datum/reagent/oxygen = 6)
+
+/obj/item/reagent_containers/food/drinks/soda_cans/monkey_energy
+	name = "Monster Drink Energetyczny"
+	desc = "Napój energetynczy monster."
+	icon_state = "monster"
+	list_reagents = list(/datum/reagent/consumable/monkey_energy = 50)
+	foodtype = SUGAR | JUNKFOOD
+	custom_price = 30

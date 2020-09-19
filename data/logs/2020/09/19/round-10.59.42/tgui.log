@@ -1,0 +1,15 @@
+[2020-09-19 08:59:42.903] Starting up round ID .
+ - -------------------------
+[2020-09-19 08:59:43.279] guest94480906 in browseroutput/initialize
+[2020-09-19 09:01:57.809] guest94480906 (as Jaxson Llora at 130,124,2)
+ - Using: /obj/machinery/vending/boozeomat [0x200a149]
+ - new Vending fancy 1
+[2020-09-19 09:01:57.810] guest94480906 in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/boozeomat [0x200a149]
+[2020-09-19 09:02:13.335] guest94480906 in tgui-window-1/close (suspending)
+[2020-09-19 09:02:13.335] guest94480906 in tgui-window-1/close (suspending)
+[2020-09-19 09:04:03.016] guest94480906 (as Jaxson Llora at 130,134,2)
+ - Using: /obj/machinery/vending/cola/blue [0x20133d9]
+ - new Vending fancy 1
+[2020-09-19 09:04:26.029] guest94480906 in tgui-window-1/close (suspending)
+[2020-09-19 09:04:26.029] guest94480906 in tgui-window-1/close (suspending)

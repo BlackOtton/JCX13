@@ -1,0 +1,121 @@
+[2020-09-19 08:52:11.420] Starting up round ID .
+ - -------------------------
+[2020-09-19 08:52:11.653] ACCESS: Login: Guest-94480906 from localhost-94480906 || BYOND v513.1532
+[2020-09-19 08:52:11.654] ACCESS: Mob Login: Guest-94480906/(Guest-94480906) was assigned to a /mob/dead/new_player
+[2020-09-19 08:52:11.658] GAME: Guest-94480906/(Guest-94480906) Client Guest-94480906/(Guest-94480906) has taken ownership of mob Guest-94480906(/mob/dead/new_player) (start area (8,174,1))
+[2020-09-19 08:52:17.601] GAME: Saved mode is 'extended'
+[2020-09-19 08:52:40.603] GAME: Hierophant's Arena loaded at 83,134,5
+[2020-09-19 08:52:40.607] GAME: Pulsating Tumor loaded at 154,25,5
+[2020-09-19 08:52:40.713] GAME: Biodome Beach loaded at 150,148,5
+[2020-09-19 08:52:40.726] GAME: Ruin of Envy loaded at 122,61,5
+[2020-09-19 08:52:40.730] GAME: Ancient Puzzle loaded at 111,209,5
+[2020-09-19 08:52:40.745] GAME: Makeshift Shelter loaded at 192,49,5
+[2020-09-19 08:52:41.029] GAME: Syndicate Lava Base loaded at 184,148,5
+[2020-09-19 08:52:41.038] GAME: Fountain Hall loaded at 96,65,5
+[2020-09-19 08:52:41.291] GAME: Asteroid 4 loaded at 106,60,9
+[2020-09-19 08:52:41.314] GAME: Asteroid 3 loaded at 163,182,9
+[2020-09-19 08:52:41.344] GAME: Derelict 3 loaded at 178,191,8
+[2020-09-19 08:52:41.365] GAME: Detached Teleporter loaded at 168,152,9
+[2020-09-19 08:52:41.387] GAME: Asteroid 2 loaded at 100,115,4
+[2020-09-19 08:52:41.419] GAME: Unnamed Turreted Outpost loaded at 83,171,4
+[2020-09-19 08:52:41.441] GAME: Empty Shell loaded at 80,106,9
+[2020-09-19 08:52:41.528] GAME: Abandoned Telecommunications Satellite loaded at 113,41,4
+[2020-09-19 08:52:41.567] GAME: Disposal Facility 17 loaded at 212,65,8
+[2020-09-19 08:52:41.589] GAME: Strange Ship loaded at 213,37,8
+[2020-09-19 08:52:41.618] GAME: Cleric's Den loaded at 106,165,6
+[2020-09-19 08:52:41.674] GAME: DK Excavator 453 loaded at 151,197,6
+[2020-09-19 08:52:41.718] GAME: Biological Storage Facility loaded at 139,153,3
+[2020-09-19 08:52:41.839] GAME: Derelict Tradepost loaded at 188,128,10
+[2020-09-19 08:52:42.140] GAME: The Twin-Nexus Hotel loaded at 107,164,4
+[2020-09-19 08:52:42.274] GAME: Crashed Ship loaded at 84,33,3
+[2020-09-19 08:52:50.661] GAME: An alien egg has been delivered to Xenobiology Lab (129,40,2)
+[2020-09-19 08:52:53.776] GAME: *no key*/(Kailey Leach) Kailey Leach name changed from Kailey Leach to Flop O'Honker (Unexplored Location (117,63,9))
+[2020-09-19 08:53:11.251] EMOTE: *no key*/(Lola Zimmer) seizes up and falls limp, her eyes dead and lifeless... (Morgue (97,78,2))
+[2020-09-19 08:53:11.258] EMOTE: *no key*/(Pauleen Wible) seizes up and falls limp, her eyes dead and lifeless... (Morgue (100,81,2))
+[2020-09-19 08:53:33.127] GAME: Backup Shuttle loaded at 8,8,12
+[2020-09-19 08:53:33.216] GAME: assault pod (Default) loaded at 16,8,12
+[2020-09-19 08:53:33.295] GAME: fancy transport ferry loaded at 23,8,12
+[2020-09-19 08:53:33.508] GAME: Box Station Emergency Shuttle loaded at 36,8,12
+[2020-09-19 08:53:34.023] GAME: advanced syndicate infiltrator loaded at 47,8,12
+[2020-09-19 08:53:34.365] GAME: cargo ferry (Box) loaded at 64,8,12
+[2020-09-19 08:53:35.223] GAME: escape pod (Default) loaded at 71,8,12
+[2020-09-19 08:53:35.290] GAME: auxilliary base (Default) loaded at 74,8,12
+[2020-09-19 08:53:35.419] GAME: arrival shuttle (Box) loaded at 83,8,12
+[2020-09-19 08:53:35.528] GAME: lavaland shuttle (Meta) loaded at 98,8,12
+[2020-09-19 08:53:35.576] GAME: mining shuttle (Box) loaded at 103,8,12
+[2020-09-19 08:53:35.636] GAME: labour shuttle (Box) loaded at 108,8,12
+[2020-09-19 08:53:35.688] GAME: escape pod (Default) loaded at 113,8,12
+[2020-09-19 08:53:35.715] GAME: escape pod (Default) loaded at 116,8,12
+[2020-09-19 08:53:35.754] GAME: escape pod (Default) loaded at 119,8,12
+[2020-09-19 08:53:36.105] GAME: Resetting persistent /datum/chemical_reaction/randomized/secret_sauce random recipe.
+[2020-09-19 08:53:36.106] GAME: Resetting persistent /datum/chemical_reaction/randomized/metalgen random recipe.
+[2020-09-19 08:54:06.167] ADMIN: Guest-94480906 has started the game.
+[2020-09-19 08:54:11.570] EMOTE: *no key*/(Runtime) bats the toy mouse around with its paw! (Chief Medical Officer's Office (96,98,2))
+[2020-09-19 08:54:11.758] SAY: *no key*/(Inspector Johnson) "Engaging patrol mode." (Medbay Central (100,109,2))
+[2020-09-19 08:54:13.817] SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23,36,5))
+[2020-09-19 08:54:13.818] SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23,36,5))
+[2020-09-19 08:54:13.820] SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Brig (110,166,2))
+[2020-09-19 08:54:13.825] SAY: *no key*/(Mopficcer Sweepsky) "Engaging patrol mode." (Central Primary Hallway (92,143,2))
+[2020-09-19 08:54:15.814] SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Port Maintenance (78,113,2))
+[2020-09-19 08:54:18.695] GAME: *no key*/(Guest-94480906) *no key*/(Guest-94480906) is no longer owning mob Guest-94480906(/mob/dead/new_player) (start area (8,174,1))
+[2020-09-19 08:54:18.695] ACCESS: Mob Login: Guest-94480906/(Aliyah Noton) was assigned to a /mob/living/carbon/human
+[2020-09-19 08:54:18.698] GAME: Guest-94480906/(Aliyah Noton) Client Guest-94480906/(Aliyah Noton) has taken ownership of mob (/mob/living/carbon/human) (start area (8,174,1))
+[2020-09-19 08:54:30.069] EMOTE: *no key*/(monkey (472)) scratches. (Virology (63,78,2))
+[2020-09-19 08:54:30.207] SAY: *no key*/(�Medibot) "Radar, put a mask on!" (CentCom Transport Shuttle Dock (155,73,1))
+[2020-09-19 08:54:30.212] EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:54:32.213] EMOTE: *no key*/(Jon) clicks. (Holodeck - Beach (237,225,1))
+[2020-09-19 08:54:34.205] EMOTE: *no key*/(Chicken Joe) pecks at the ground. (Unexplored Location (168,157,5))
+[2020-09-19 08:54:36.204] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (Holding Facility (102,72,1))
+[2020-09-19 08:54:38.202] SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:54:38.217] EMOTE: *no key*/(cow) shakes its head. (Holding Facility (104,72,1))
+[2020-09-19 08:54:43.489] EMOTE: *no key*/(Tom) runs in a circle. (Prison Wing Cells (86,188,2))
+[2020-09-19 08:54:45.472] SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Central Maintenance (97,138,2))
+[2020-09-19 08:54:45.496] SAY: *no key*/(Hattori) "I knew it, I should&#39;ve been a plastic surgeon." (Holding Facility (108,45,1))
+[2020-09-19 08:54:49.522] SAY: *no key*/(�chicken) "Cluck!" FORCED by poly (Holding Facility (102,72,1))
+[2020-09-19 08:54:51.506] EMOTE: *no key*/(Jonny) clacks. (Unexplored Location (153,158,5))
+[2020-09-19 08:55:04.597] EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:55:10.398] EMOTE: *no key*/(Runtime) bats the toy mouse around with its paw! (Chief Medical Officer's Office (96,99,2))
+[2020-09-19 08:55:16.667] SAY: *no key*/(Hattori) "Why are we still here? Just to suffer?" (Holding Facility (108,45,1))
+[2020-09-19 08:55:23.673] EMOTE: *no key*/(monkey (934)) waves his tail. (Syndicate Lavaland Virology (192,176,5))
+[2020-09-19 08:55:23.678] EMOTE: *no key*/(corgi) dances around. (Port Quarter Maintenance (60,99,2))
+[2020-09-19 08:55:23.863] SAY: *no key*/(Poly) "OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:55:28.927] EMOTE: *no key*/(crab) clacks. (Abandoned Zoo (140,156,3))
+[2020-09-19 08:55:31.821] EMOTE: *no key*/(Poly) looks in the �Zippo lighter's direction and takes flight. (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:55:33.824] EMOTE: *no key*/(Tom) squeaks. (Prison Wing Cells (86,189,2))
+[2020-09-19 08:55:36.620] EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:55:39.317] EMOTE: *no key*/(Pun Pun) waves its tail. (Bar (133,127,2))
+[2020-09-19 08:55:53.059] EMOTE: *no key*/(corgi) pants. (Port Quarter Maintenance (60,99,2))
+[2020-09-19 08:55:56.047] EMOTE: *no key*/(monkey (769)) rolls. (Virology (63,81,2))
+[2020-09-19 08:55:59.641] EMOTE: *no key*/(Jonny) clacks. (Unexplored Location (153,158,5))
+[2020-09-19 08:55:59.659] SAY: *no key*/(Nobody's Perfect) "Why are we still here? Just to suffer?" (Wizard's Den (24,75,1))
+[2020-09-19 08:56:04.463] SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:56:06.868] SAY: *no key*/(mouse) "Squeak!" FORCED by poly (Port Maintenance (54,125,2))
+[2020-09-19 08:56:08.887] EMOTE: *no key*/(Runtime) bats the toy mouse around with its paw! (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 08:56:12.250] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (Holding Facility (103,72,1))
+[2020-09-19 08:56:19.048] SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:56:22.012] SAY: *no key*/(Kentucky) "Bwaak bwak." FORCED by poly (Garden (147,153,2))
+[2020-09-19 08:56:24.557] SAY: *no key*/(mouse) "Squeak!" FORCED by poly (Starboard Bow Maintenance (138,142,2))
+[2020-09-19 08:56:24.570] SAY: *no key*/(Tom) "Squeak!" FORCED by poly (Prison Wing Cells (86,189,2))
+[2020-09-19 08:56:25.487] ADMIN: Guest-94480906/(Aliyah Noton) spawned 1 x /obj/item/reagent_containers/food/drinks/beer at Port Primary Hallway (72,134,2)
+[2020-09-19 08:56:26.562] SAY: *no key*/(Featherbottom) "Bwaak bwak." FORCED by poly (Garden (147,154,2))
+[2020-09-19 08:56:32.464] EMOTE: *no key*/(pug) dances around. (Brig Control (106,166,2))
+[2020-09-19 08:56:32.662] SAY: *no key*/(Tom) "Squeak!" FORCED by poly (Prison Wing Cells (86,189,2))
+[2020-09-19 08:56:38.654] SAY: *no key*/(mouse) "SQUEAK!" FORCED by poly (Port Maintenance (79,114,2))
+[2020-09-19 08:56:40.678] EMOTE: *no key*/(Poly) looks in the premium cigar's direction and takes flight. (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:56:42.664] EMOTE: *no key*/(Eddie) clacks. (Unexplored Location (164,174,5))
+[2020-09-19 08:56:50.698] SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Starboard Bow Maintenance (138,143,2))
+[2020-09-19 08:56:52.691] SAY: *no key*/(Poly) "What are you before me?" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:56:54.692] SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:56:56.490] EMOTE: *no key*/(Runtime) looks alert. (Chief Medical Officer's Office (95,98,2))
+[2020-09-19 08:57:00.681] EMOTE: *no key*/(Jonny) clacks. (Unexplored Location (155,158,5))
+[2020-09-19 08:57:04.699] EMOTE: *no key*/(cow) brays. (Holding Facility (102,71,1))
+[2020-09-19 08:57:04.699] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (Holding Facility (103,71,1))
+[2020-09-19 08:57:10.882] SAY: *no key*/(�Medibot) "Why are we still here? Just to suffer?" (CentCom Transport Shuttle Dock (155,73,1))
+[2020-09-19 08:57:12.885] EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:57:14.887] EMOTE: *no key*/(Citrus) dozes off. (Cargo Bay (70,150,2))
+[2020-09-19 08:57:16.700] EMOTE: *no key*/(monkey (210)) jumps! (Genetics Lab (135,105,2))
+[2020-09-19 08:57:24.891] SAY: *no key*/(Nobody's Perfect) "Radar, put a mask on!" (Wizard's Den (24,75,1))
+[2020-09-19 08:57:28.891] EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (156,141,2))
+[2020-09-19 08:57:28.893] SAY: *no key*/(Inspector Johnson) "What kind of medbay is this? Everyone&#39;s dropping like flies." (Dormitories (142,163,2))
+[2020-09-19 08:57:29.777] ACCESS: Logout: Guest-94480906/(Aliyah Noton)
+[2020-09-19 08:57:29.778] GAME: Guest-94480906[DC]/(Aliyah Noton) Guest-94480906[DC]/(Aliyah Noton) is no longer owning mob Aliyah Noton(/mob/living/carbon/human) (Bar (133,127,2))

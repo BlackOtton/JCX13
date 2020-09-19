@@ -441,8 +441,8 @@
 	icon_state = "poster1_legit"
 
 /obj/structure/sign/poster/official/nanotrasen_logo
-	name = "\improper Nanotrasen logo"
-	desc = "A poster depicting the Nanotrasen logo."
+	name = "\improper Vanik Jacexa"
+	desc = "Piękny żółty vanik z podpisem Jaca."
 	icon_state = "poster2_legit"
 
 /obj/structure/sign/poster/official/cleanliness
@@ -451,13 +451,13 @@
 	icon_state = "poster3_legit"
 
 /obj/structure/sign/poster/official/help_others
-	name = "Help Others"
-	desc = "A poster encouraging you to help fellow crewmembers."
+	name = "Jacex i gitara"
+	desc = "Plakat mówiący że kiedy widzisz Jacexa, świat staje się lepszy."
 	icon_state = "poster4_legit"
 
 /obj/structure/sign/poster/official/build
-	name = "Build"
-	desc = "A poster glorifying the engineering team."
+	name = "TwitchTV"
+	desc = "Plakat przedstawiający platformę streamingową Jacexa."
 	icon_state = "poster5_legit"
 
 /obj/structure/sign/poster/official/bless_this_spess
@@ -491,13 +491,13 @@
 	icon_state = "poster11_legit"
 
 /obj/structure/sign/poster/official/love_ian
-	name = "Love Ian"
-	desc = "Ian is love, Ian is life."
+	name = "Kochaj Iana"
+	desc = "Ian to miłość, Ian to życie."
 	icon_state = "poster12_legit"
 
 /obj/structure/sign/poster/official/space_cops
-	name = "Space Cops."
-	desc = "A poster advertising the television show Space Cops."
+	name = "Słucaj DTP."
+	desc = "Plakat reklamujący Dwóch Typów Podcast, najpopularniejszego podcastu w Polsce."
 	icon_state = "poster13_legit"
 
 /obj/structure/sign/poster/official/ue_no

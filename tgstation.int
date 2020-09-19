@@ -1,10 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-DIR: icons icons\obj icons\obj\doors icons\obj\doors\airlocks icons\obj\doors\airlocks\station 
+LAST_COMPILE_TIME: 1600505964
+DIR: code code\datums\components code\datums\components\storage code\datums\components\storage\concrete code\game code\game\machinery code\game\machinery\computer code\game\objects code\game\objects\effects code\game\objects\items code\modules code\modules\cargo code\modules\cargo\blackmarket code\modules\food_and_drinks code\modules\food_and_drinks\drinks code\modules\food_and_drinks\recipes icons icons\obj icons\obj\clothing sound sound\vox_fem 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: icons\obj\doors\airlocks\station\command.dmi
-FILE: icons\obj\doors\airlocks\station\command.dmi
+LAST_COMPILE_VERSION: 513.1532
+WINDOW: icons\obj\clothing\glasses.dmi;icons\obj\clothing\hats.dmi;code\modules\food_and_drinks\recipes\drinks_recipes.dm;icons\obj\drinks.dmi;code\modules\food_and_drinks\drinks\drinks.dm;code\game\objects\effects\contraband.dm
+FILE: code\modules\food_and_drinks\drinks\drinks.dm
 */
 // END_INTERNALS

@@ -1,0 +1,10 @@
+[2020-09-19 08:52:11.425] Starting up round ID .
+ - -------------------------
+[2020-09-19 08:52:11.795] guest94480906 in browseroutput/initialize
+[2020-09-19 08:57:08.331] guest94480906 (as Aliyah Noton at 130,124,2)
+ - Using: /obj/machinery/vending/boozeomat [0x200a149]
+ - new Vending fancy 1
+[2020-09-19 08:57:08.332] guest94480906 in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/boozeomat [0x200a149]
+[2020-09-19 08:57:26.861] guest94480906 in tgui-window-1/close (suspending)
+[2020-09-19 08:57:26.862] guest94480906 in tgui-window-1/close (suspending)

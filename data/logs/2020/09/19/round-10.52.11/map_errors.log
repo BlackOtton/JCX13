@@ -1,0 +1,17 @@
+[2020-09-19 08:52:25.992] APC: (Port Quarter Solar APC) at Port Quarter Solar Maintenance (73,72,2) with dir (4 | EAST) has pixel_x value (25 - should be 24.)
+[2020-09-19 08:52:28.172] APC: (Morgue APC) at Morgue (101,82,2) with dir (4 | EAST) has pixel_x value (0 - should be 24.)
+[2020-09-19 08:53:11.397] Holodeck Door at Recreation Area (148,178,2) failed to find a valid airlock to cyclelink with!
+[2020-09-19 08:53:11.397] Holodeck Door at Recreation Area (148,175,2) failed to find a valid airlock to cyclelink with!
+[2020-09-19 08:53:11.416] Holodeck Door at Recreation Area (158,178,2) failed to find a valid airlock to cyclelink with!
+[2020-09-19 08:53:11.416] Holodeck Door at Recreation Area (158,175,2) failed to find a valid airlock to cyclelink with!
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (134,129,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (134,127,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (134,130,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (134,128,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (134,126,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (133,127,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (134,131,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (133,126,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (132,127,2).
+[2020-09-19 08:53:18.902] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2 added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) around Bar (135,131,2).
+[2020-09-19 08:53:18.902] build_pipeline(): further messages about pipenets will be suppressed
