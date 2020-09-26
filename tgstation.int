@@ -2,11 +2,11 @@
 /*
 MAP_ZOOM: 1.000
 LAST_COMPILE_TIME: 1600697566
-DIR: _maps _maps\map_files _maps\map_files\IceBoxStation code code\datums code\datums\components code\datums\components\storage code\datums\components\storage\concrete code\datums\status_effects code\game code\game\machinery\computer code\game\objects code\game\objects\effects icons icons\obj sound sound\vox_fem 
+DIR: _maps _maps\map_files _maps\map_files\IceBoxStation code code\datums code\datums\components code\datums\components\storage code\datums\components\storage\concrete code\datums\status_effects code\game code\game\machinery\computer code\game\objects icons icons\runtime 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1532
-WINDOW: icons\tg_32.png;icons\obj\contraband.dmi;code\game\objects\effects\contraband.dm
-FILE: code\game\objects\effects\contraband.dm
+WINDOW: icons\runtime\default_title.dmi
+FILE: icons\runtime\default_title.dmi
 */
 // END_INTERNALS
