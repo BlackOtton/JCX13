@@ -277,8 +277,8 @@
 	icon_state = "poster17"
 
 /obj/structure/sign/poster/contraband/communist_state
-	name = "Communist State"
-	desc = "All hail the Communist party!"
+	name = "Czerwony Plakat"
+	desc = "Dziwny plakat, dosłownie czerwony kolor tylko."
 	icon_state = "poster18"
 
 /obj/structure/sign/poster/contraband/lamarr
